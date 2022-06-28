@@ -1,0 +1,21 @@
+
+<!DOCTYPE library SYSTEM "library.dtd">
+<?xml-stylesheet type="text/xsl" href="week5a.xsl"?>
+<?xml version="1.0" standalone="no"?>
+<college>
+<Student to="student">
+<name>ABC</name>
+<rno>19-88</rno>
+<branch>CSE</branch>
+</Student>
+<Teaching to="teaching">
+<name>ECD</name>
+<Dept>CSE</Dept>
+<empid>f001</empid>
+</Teaching>
+<NonTeaching to="non-teaching">
+<name>MNO</name>
+<id>ct01</id>
+<block>B4-301</block> 
+</NonTeaching>
+</college>

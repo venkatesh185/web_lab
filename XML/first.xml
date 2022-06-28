@@ -1,0 +1,19 @@
+ <?version="1.0" encoding="UTF-8"?>
+ <library>
+ <Issued to="Faculty">
+ <Bkid>Coo1</Bkid>
+ <Date>05/05/2020</Date>
+ <Details>
+ <name>Peter</name>
+ <id>f001</id>
+ </Details>
+ </Issued>
+ <Issued to="Student">
+ <Bkid>H001</Bkid>
+ <Date>0/5/2020</Date>
+ <Details>
+ <name>venkatesh</name>
+ <id>f09</id>
+ </Details>
+ </Issued>
+ </library>

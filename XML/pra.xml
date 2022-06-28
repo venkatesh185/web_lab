@@ -1,0 +1,19 @@
+<!DOCTYPE register SYSTEM "pra.dtd">
+<register>
+<user uid='s1'>
+        <name>Mahesh</name>
+        <uname>Mahi</uname>
+        <email>mymail@gmail.com</email>
+        <password>123456</password>
+        <mobile>9515479704</mobile>
+        <address>Guntur</address>
+    </user>
+    <user uid='s2'>
+        <name>Uday</name>
+        <uname>Uday</uname>
+        <email>hismail@gmail.com</email>
+        <password>654321</password>
+        <mobile>8979874564</mobile>
+        <address>Srikakulam</address>
+    </user>
+</register>

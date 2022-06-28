@@ -1,0 +1,9 @@
+    <!ELEMENT register (user+)>
+    <!ELEMENT user (name,uname,email,password,mobile,address)>
+    <!ELEMENT name (#PCDATA)>
+    <!ELEMENT uname (#PCDATA)>
+    <!ELEMENT email (#PCDATA)>
+    <!ELEMENT password (#PCDATA)>
+    <!ELEMENT mobile (#PCDATA)>
+    <!ELEMENT address (#PCDATA)>
+    <!ATTLIST user uid ID #REQUIRED>

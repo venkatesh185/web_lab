@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="web.xsl"?>
+<college>
+    <student>
+        <fname>venky</fname>
+        <id>8</id>
+        <branch>cse</branch>
+    </student>
+    <!-- <faculty> -->
+        <!-- <lname>akhila</lname> -->
+        <!-- <id>1</id> -->
+        <!-- <branch>cse</branch> -->
+    <!-- </faculty> -->
+</college>

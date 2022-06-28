@@ -1,0 +1,18 @@
+<!ELEMENT college (Student)*>
+<!ATTLIST Student to CDATA "Student">
+<!ELEMENT Student (name,rno,branch)>
+<!ELEMENT name (#PCDATA)*>
+<!ELEMENT rno (#PCDATA)*>
+<!ELEMENT branch (#PCDATA)*>
+<!ELEMENT college (Teaching)*>
+<!ATTLIST Teaching to CDATA "Teaching">
+<!ELEMENT Teaching (name,Dept,empid)>
+<!ELEMENT name (#PCDATA)*>
+<!ELEMENT Dept (#PCDATA)*>
+<!ELEMENT empid (#PCDATA)*>
+<!ELEMENT college (NonTeaching)*>
+<!ATTLIST NonTeaching to CDATA "NonTeaching">
+<!ELEMENT NonTeaching (name,id,block)>
+<!ELEMENT name (#PCDATA)*>
+<!ELEMENT id (#PCDATA)*>
+<!ELEMENT block (#PCDATA)*>

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div>
+        <h1 class="text-success text-center">Registration Form</h1><br>
+    </div>
+    <div>
+        <form action="reg.html" onsubmit="return validation()">
+            <div>
+                <label for="">username</label><br>
+                <input type="text" name="name" id="name"><br>
+            </div>
+            <div>
+                <label for="">Password</label><br>
+                <input type="password" name="password" id="password"><br>
+            </div>
+            <div>
+                <input type="submit" name="submit">
+            </div>
+        </form>
+    </div>
+    <script type="text/javascript">
+        function validation(){
+            var user=document.getElementById('name').value;
+            var pass=document.getElementById('password').value;
+            if(user==""){
+                alert("plaease fill user name");
+            }
+            document.getElementById('user').addEventListener("submit", function(validation(event){
+                event.preventDefault()
+            });)
+            }
+        }
+    </script>
+</body>
+</html>

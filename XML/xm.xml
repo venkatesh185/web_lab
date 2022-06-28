@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<college
+xmlns="http://www.javatpoint.com" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.javatpoint.com schema.xsd"> 
+  <student>
+    <name>Kaushik</name>
+    <rollno>19131A05L0</rollno>
+    <branch>CSE</branch>
+    <section>4</section>
+    <year>3rd</year>
+  </student>
+  <faculty>
+    <name>Akhila</name>
+    <id>567532</id>
+    <dept>CSE</dept>
+    <subject>WEB TECHECHNOLOGIES LAB</subject>
+  </faculty>
+</college>

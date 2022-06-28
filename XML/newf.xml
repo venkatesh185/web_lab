@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="p6.xsl" ?>
+<!DOCTYPE college SYSTEM "colleged.dtd">
+<college>
+    <teaching>
+        <name>Kaushik</name>
+        <id>1020</id>
+        <department>Marine</department>
+    </teaching>
+    <teaching>
+        <name>james</name>
+        <id>1020</id>
+        <department>chemical</department>
+    </teaching>
+    <teaching>
+        <name>mario</name>
+        <id>1020</id>
+        <department>civil</department>
+    </teaching>
+    <nonteaching>
+        <name>Ramu</name>
+        <id>1029</id>
+    </nonteaching>
+    <nonteaching>
+        <name>sahil</name>
+        <id>1029</id>
+    </nonteaching>
+    <student>
+        <name>Raju</name>
+        <id>12334</id>
+        <department>Mechanical</department>
+        <year>3</year>
+	    <section>4</section>
+	    <class>55</class>
+    </student>
+    <student>
+        <name>Ram</name>
+        <id>12334</id>
+        <department>EEE</department>
+        <year>3</year>
+        <section>4</section>
+        <class>550</class>
+    </student>
+</college>

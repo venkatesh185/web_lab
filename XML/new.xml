@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="college.xsl" ?>
+<!DOCTYPE college SYSTEM "college.dtd">
+<college>
+    <teaching>
+        <name>Rao</name>
+        <id>1020</id>
+        <department>Marine</department>
+    </teaching>
+    <nonteaching>
+        <name>Ranga</name>
+        <id>1029</id>
+    </nonteaching>
+    <student>
+        <name>Ajay</name>
+        <id>12334</id>
+        <department>Marine</department>
+        <year>3</year>
+	    <section>4</section>
+    </student>
+</college>

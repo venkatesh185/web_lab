@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<college xmlns="http://www.javatpoint.com" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.javatpoint.com newcollege.xsd"> 
+ <teaching>
+ <name>Raju</name>
+ <id>102000</id>
+ <department>Marine</department>
+ </teaching>
+ <nonteaching>
+ <name>Ranga</name>
+ <id>1029</id>
+ </nonteaching>
+ <student>
+ <name>Kaushik</name>
+ <id>12334</id>
+ <department>Mechanical</department>
+ <year>3</year>
+ <section>4</section>
+ </student>
+</college>

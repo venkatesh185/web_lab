@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ww.xsl"?>
+<register>
+    <user>
+        <name>Ajay</name>
+        <uname>kumar</uname>
+        <email>aaa@gmail.com</email>
+        <password>12345</password>
+        <mobile>123456</mobile>
+    </user>
+    <user>
+        <name>Ajay</name>
+        <uname>kumar</uname>
+        <email>aaa@gmail.com</email>
+        <password>12345</password>
+        <mobile>123456</mobile>
+    </user>
+</register>

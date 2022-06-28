@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<register xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation ="ww.xsd">
+<name>uday</name>
+<uname>kiran</uname>
+<password>venka</password>
+<mobile>123456</mobile>
+</register>
